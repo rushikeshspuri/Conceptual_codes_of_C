@@ -1,19 +1,30 @@
-# C_Programming
+# 📚 Conceptual Programs
 
-Collection of C programs from basic concepts to advanced and industry-level implementations.
+> Building the foundation — one concept at a time!
 
-## About
+This folder contains beginner-level C programs written while learning
+and understanding the core concepts of C Programming from scratch.
 
-This repository contains C programs covering:
-- Basic syntax, data types, and operators
-- Decision making (if, else, switch)
-- Loops and Iteration (for, while, do-while)
-- Functions and Recursion
-- Pointers and Memory Management
-- Arrays and Strings
-- Structures and Unions
-- File Handling (open, read, write, close)
-- Dynamic Memory Allocation (malloc, calloc, free)
-- Advanced and industry-level C programs
+## 💡 What's Inside?
+Programs based on:
+- Data Types & Variables (int, float, char, short, long)
+- Constants & Sizeof operator
+- Operators & Shorthand expressions
+- Input / Output (printf, scanf)
+- Selection (if-else, switch)
+- Iteration (for, while, do-while loops)
+- Functions (parameters, return values, recursion)
+- Arrays (1D, 2D)
+- Pointers & Address
+- Structures (declaration, array, pointer)
+- Dynamic Memory (malloc)
+- File Handling (create, open, read, write, close)
 
-> Uploaded daily as part of my learning journey to build skills and portfolio.
+## 🎯 Goal
+To clearly understand every fundamental concept of C Programming
+before moving on to logical and advanced problem solving.
+
+## 📈 Level
+Beginner → Intermediate
+
+## 🗂️ Folder Structure
