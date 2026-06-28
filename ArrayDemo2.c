@@ -6,7 +6,7 @@ int main()
     
     int Brr []= {10,20,30,40}; //  member intialization list 
     
-    int Crr [4];
+    int Crr [4]; 
     
     Crr[0]=10;
     Crr[1]=20;
