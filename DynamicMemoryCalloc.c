@@ -16,7 +16,7 @@ int main ()
     
     printf("Enter your marks : \n");
     
-    // Iteration
+    // Iteration 
     //     1     2    3
     for (i = 0;  i < Size; i++)
     {
