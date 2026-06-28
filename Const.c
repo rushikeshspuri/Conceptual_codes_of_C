@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i = 10;
+    int i = 10; 
    const int j = 10;
 
    i++; // Allowed
