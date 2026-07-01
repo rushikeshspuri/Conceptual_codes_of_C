@@ -9,7 +9,7 @@ int main()
     int Crr [4]; 
     
     Crr[0]=10;
-    Crr[1]=20;
+    Crr[1]=20; 
     Crr[2]=30;
     Crr[3]=40; // member  by member intialization
     
