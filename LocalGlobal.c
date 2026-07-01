@@ -8,7 +8,7 @@ void fun ()
     printf("Inside fun : %d\n",no);
 }
 
-int main ()
+int main () 
 {
     int i = 21;     // Local variable (stack)
     printf("Inside Main : %d\n",i);
