@@ -2,7 +2,7 @@
 	.def	___main;	.scl	2;	.type	32;	.endef
 	.section .rdata,"dr"
 LC0:
-	.ascii "Marvellous Infosystems\0"
+	.ascii "Marvellous Infosystems\0" 
 	.text
 	.globl	_main
 	.def	_main;	.scl	2;	.type	32;	.endef
