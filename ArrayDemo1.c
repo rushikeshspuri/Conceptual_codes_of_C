@@ -8,7 +8,7 @@ int main()
     double dArr [4] = {10.0 ,20.0 , 30.0 ,40.0};
 
     printf("size of character array : %lu\n",sizeof(cArr)); // 4
-    printf("size of integer array : %lu\n",sizeof(iArr)); // 16
+    printf("size of integer array : %lu\n",sizeof(iArr)); // 16 
     printf("size of float array : %lu\n",sizeof(fArr));    // 16
     printf("size of double array : %lu\n",sizeof(dArr)); // 32
 
