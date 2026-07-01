@@ -6,7 +6,7 @@
 # 38 "c:\\mingw\\include\\stdio.h" 3
        
 # 39 "c:\\mingw\\include\\stdio.h" 3
-# 56 "c:\\mingw\\include\\stdio.h" 3
+# 56 "c:\\mingw\\include\\stdio.h" 3 
 # 1 "c:\\mingw\\include\\_mingw.h" 1 3
 # 55 "c:\\mingw\\include\\_mingw.h" 3
        
